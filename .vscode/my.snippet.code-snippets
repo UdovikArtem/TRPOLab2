@@ -1,0 +1,19 @@
+{
+	"If with else": {
+		"scope": "java",
+		"prefix": "if",
+		"body": [
+			"if(){",
+			"}else{",
+			"}"
+		]
+	},
+	"Just if": {
+		"scope": "java",
+		"prefix": "if",
+		"body": [
+			"if(){",
+			"}"
+		],
+	}
+}

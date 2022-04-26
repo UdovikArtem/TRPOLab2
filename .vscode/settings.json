@@ -3,5 +3,6 @@
     "[java]": {
         "editor.insertSpaces": false,
         "editor.tabSize": 8
-    }
+    },
+    "java.configuration.updateBuildConfiguration": "interactive"
 }
